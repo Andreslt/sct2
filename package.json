@@ -1,0 +1,25 @@
+{
+  "name": "anla_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Lastra",
+  "license": "ISC",
+  "dependencies": {
+    "applicationinsights": "^0.17.0",
+    "body-parser": "^1.15.2",
+    "cloudinary": "^1.4.4",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "fingerprintjs2": "^1.4.1",
+    "formidable": "^1.0.17",
+    "jwt-simple": "*",
+    "moment": "*",
+    "mongoose": "^4.6.8",
+    "mongoose-unique-validator": "^1.0.2",
+    "path": "^0.12.7"
+  }
+}
